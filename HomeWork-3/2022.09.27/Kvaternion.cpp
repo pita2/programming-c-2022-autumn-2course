@@ -150,25 +150,25 @@ Kvaternion operator/(const Kvaternion& num, double d)
 Kvaternion operator+=(Kvaternion& num1, const Kvaternion& num2)
 {
     num1 = num1 + num2;
-    return num1 + num2;
+    return num1;
 }
 
 Kvaternion operator-=(Kvaternion& num1, const Kvaternion& num2)
 {
     num1 = num1 - num2;
-    return num1 - num2;
+    return num1;
 }
 
 Kvaternion operator*=(Kvaternion& num1, const Kvaternion& num2)
 {
     num1 = num1 * num2;
-    return num1 * num2;
+    return num1;
 }
 
 Kvaternion operator/=(Kvaternion& num1, const Kvaternion& num2)
 {
     num1 = num1 / num2;
-    return num1 / num2;
+    return num1;
 }
 
 std::ostream& operator<<(std::ostream& stream, const Kvaternion& num)
