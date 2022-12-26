@@ -1,0 +1,3 @@
+/Users/pita2/CLionProjects/ptr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pita2/CLionProjects/ptr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pita2/CLionProjects/ptr/cmake-build-debug/CMakeFiles/ptr.dir
