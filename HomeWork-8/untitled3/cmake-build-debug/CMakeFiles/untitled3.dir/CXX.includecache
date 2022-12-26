@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pita2/CLionProjects/untitled3/in.cpp
+iostream
+-
+sstream
+-
+fstream
+-
+vVector.h
+/Users/pita2/CLionProjects/untitled3/vVector.h
+
+/Users/pita2/CLionProjects/untitled3/vVector.h
+iostream
+-
+
